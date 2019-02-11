@@ -80,4 +80,5 @@ const partyVote = (a,b) => {
     else if (randomNumber < b) {
         return 'Independent'
     }        
-    else {return 'Republican'}
+    else {
+    return 'Republican'}
